@@ -1,0 +1,2233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="2016123456:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02acb7ec-2e41-42ed-91ef-0db632bdfe59" name="Default" comment="博客-Servlet作业">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/2016123456_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016123456.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-codec-1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/json.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-5.1.42.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/ueditor-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/sql/wl2016.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/asset/images/li.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/asset/images/wang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/asset/images/zhang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/plugins/iCheck/css/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/plugins/iCheck/css/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/plugins/iCheck/css/blue@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/plugins/iCheck/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/plugins/iCheck/js/custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/plugins/iCheck/js/icheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bootstrap3/plugins/iCheck/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/ie/PIE.htc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/ie/backgroundsize.min.htc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/ie/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/ie/v8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/images/overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/skel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/style-mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/style-mobilep.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/style-narrow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/style-narrower.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/style-normal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/style-wide.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/anchor/anchor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/attachment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/attachment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/fileTypeImages/icon_chm.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/fileTypeImages/icon_default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/fileTypeImages/icon_doc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/fileTypeImages/icon_exe.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/fileTypeImages/icon_jpg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/fileTypeImages/icon_mp3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/fileTypeImages/icon_mv.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/fileTypeImages/icon_pdf.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/fileTypeImages/icon_ppt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/fileTypeImages/icon_psd.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/fileTypeImages/icon_rar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/fileTypeImages/icon_txt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/fileTypeImages/icon_xls.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/images/alignicon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/images/alignicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/images/file-icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/images/file-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/images/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/images/success.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/attachment/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/background/background.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/background/background.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/background/background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/background/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/background/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/charts/chart.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/charts/charts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/charts/charts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/charts/charts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/charts/images/charts0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/charts/images/charts1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/charts/images/charts2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/charts/images/charts3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/charts/images/charts4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/charts/images/charts5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/emotion/emotion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/emotion/emotion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/emotion/emotion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/emotion/images/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/emotion/images/bface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/emotion/images/cface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/emotion/images/fface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/emotion/images/jxface2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/emotion/images/neweditor-tab-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/emotion/images/tface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/emotion/images/wface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/emotion/images/yface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/gmap/gmap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/help/help.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/help/help.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/help/help.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/image/image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/image/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/image/image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/image/images/alignicon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/image/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/image/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/image/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/image/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/image/images/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/image/images/success.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/image/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/insertframe/insertframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/internal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/link/link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/map/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/map/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/music/music.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/music/music.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/music/music.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/preview/preview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/scrawl/images/addimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/scrawl/images/brush.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/scrawl/images/delimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/scrawl/images/delimgH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/scrawl/images/empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/scrawl/images/emptyH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/scrawl/images/eraser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/scrawl/images/redo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/scrawl/images/redoH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/scrawl/images/scale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/scrawl/images/scaleH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/scrawl/images/size.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/scrawl/images/undo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/scrawl/images/undoH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/scrawl/scrawl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/scrawl/scrawl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/scrawl/scrawl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/searchreplace/searchreplace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/searchreplace/searchreplace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/snapscreen/snapscreen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/spechars/spechars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/spechars/spechars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/table/dragicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/table/edittable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/table/edittable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/table/edittable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/table/edittd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/table/edittip.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/template/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/template/images/bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/template/images/pre0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/template/images/pre1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/template/images/pre2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/template/images/pre3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/template/images/pre4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/template/template.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/template/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/template/template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/video/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/video/images/center_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/video/images/file-icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/video/images/file-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/video/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/video/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/video/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/video/images/left_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/video/images/none_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/video/images/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/video/images/right_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/video/images/success.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/video/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/video/video.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/video/video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/video/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/webapp/webapp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/wordimage/fClipboard_ueditor.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/wordimage/imageUploader.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/wordimage/tangram.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/wordimage/wordimage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/dialogs/wordimage/wordimage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/pic01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/pic02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/pic03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/pic04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/pic05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/index.html.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/jquery/jquery-1.10.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/jquery/jquery-ui.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/js/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/js/jquery.dropotron.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/js/jquery.scrollgress.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/js/skel-layers.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/js/skel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/lang/en/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/lang/en/images/addimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/lang/en/images/alldeletebtnhoverskin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/lang/en/images/alldeletebtnupskin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/lang/en/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/lang/en/images/button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/lang/en/images/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/lang/en/images/deletedisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/lang/en/images/deleteenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/lang/en/images/listbackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/lang/en/images/localimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/lang/en/images/music.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/lang/en/images/rotateleftdisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/lang/en/images/rotateleftenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/lang/en/images/rotaterightdisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/lang/en/images/rotaterightenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/lang/en/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/lang/zh-cn/images/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/lang/zh-cn/images/localimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/lang/zh-cn/images/music.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/lang/zh-cn/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/lang/zh-cn/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/login-register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/login-register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/sass/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/sass/_vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/sass/ie/v8.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/sass/style-mobile.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/sass/style-mobilep.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/sass/style-narrow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/sass/style-narrower.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/sass/style-normal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/sass/style-wide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/system/admin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/system/admin_add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/system/admin_edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/system/articleShow.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/system/articles.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/system/articles.jsp.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/system/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/system/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/system/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/css/ueditor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/css/ueditor.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/dialogbase.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/anchor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/arrow_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/arrow_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/button-bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/cancelbutton.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/charts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/cursor_h.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/cursor_h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/cursor_v.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/cursor_v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/dialog-title-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/filescan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/highlighted.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/icons-all.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/loaderror.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/lock.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/neweditor-tab-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/pagebreak.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/scale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/sortable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/spacer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/sparator_v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/table-cell-align.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/tangram-colorpicker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/toolbar_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/unhighlighted.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/videologo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/word.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/default/images/wordpaste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/themes/iframe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/SyntaxHighlighter/shCore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/SyntaxHighlighter/shCoreDefault.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/codemirror/codemirror.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/codemirror/codemirror.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/adapters/mootools-adapter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/adapters/mootools-adapter.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/adapters/prototype-adapter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/adapters/prototype-adapter.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/adapters/standalone-framework.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/adapters/standalone-framework.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/highcharts-more.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/highcharts-more.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/highcharts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/highcharts.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/modules/annotations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/modules/annotations.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/modules/canvas-tools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/modules/canvas-tools.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/modules/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/modules/data.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/modules/drilldown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/modules/drilldown.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/modules/exporting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/modules/exporting.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/modules/funnel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/modules/funnel.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/modules/heatmap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/modules/heatmap.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/modules/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/modules/map.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/modules/no-data-to-display.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/modules/no-data-to-display.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/themes/dark-blue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/themes/dark-green.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/themes/gray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/themes/grid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/highcharts/themes/skies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/jquery-1.10.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/jquery-1.10.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/jquery-1.10.2.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/snapscreen/UEditorSnapscreen.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/video-js/font/vjs.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/video-js/font/vjs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/video-js/font/vjs.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/video-js/font/vjs.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/video-js/video-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/video-js/video-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/video-js/video-js.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/video-js/video.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/video-js/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/webuploader/Uploader.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/webuploader/webuploader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/webuploader/webuploader.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/webuploader/webuploader.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/webuploader/webuploader.flashonly.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/webuploader/webuploader.flashonly.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/webuploader/webuploader.html5only.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/webuploader/webuploader.html5only.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/webuploader/webuploader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/webuploader/webuploader.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/webuploader/webuploader.withoutimage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/webuploader/webuploader.withoutimage.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/xss.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/zeroclipboard/ZeroClipboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/zeroclipboard/ZeroClipboard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/third-party/zeroclipboard/ZeroClipboard.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/ueditor.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/ueditor.all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/ueditor.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/ueditor.parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/ueditor.parse.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-codec-1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-io-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/json.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ueditor-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/WEB-INF/lib/commons-codec-1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/WEB-INF/lib/json.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/WEB-INF/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/WEB-INF/lib/mysql-connector-java-5.1.42.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/WEB-INF/lib/ueditor-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/WEB-INF/sql/wl2016.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/asset/images/li.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/asset/images/wang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/asset/images/zhang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/plugins/iCheck/css/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/plugins/iCheck/css/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/plugins/iCheck/css/blue@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/plugins/iCheck/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/plugins/iCheck/js/custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/plugins/iCheck/js/icheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/bootstrap3/plugins/iCheck/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/css/ie/PIE.htc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/css/ie/backgroundsize.min.htc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/css/ie/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/css/ie/v8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/css/images/overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/css/skel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/css/style-mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/css/style-mobilep.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/css/style-narrow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/css/style-narrower.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/css/style-normal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/css/style-wide.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/anchor/anchor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/attachment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/attachment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/fileTypeImages/icon_chm.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/fileTypeImages/icon_default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/fileTypeImages/icon_doc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/fileTypeImages/icon_exe.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/fileTypeImages/icon_jpg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/fileTypeImages/icon_mp3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/fileTypeImages/icon_mv.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/fileTypeImages/icon_pdf.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/fileTypeImages/icon_ppt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/fileTypeImages/icon_psd.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/fileTypeImages/icon_rar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/fileTypeImages/icon_txt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/fileTypeImages/icon_xls.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/images/alignicon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/images/alignicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/images/file-icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/images/file-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/images/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/images/success.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/attachment/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/background/background.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/background/background.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/background/background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/background/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/background/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/charts/chart.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/charts/charts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/charts/charts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/charts/charts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/charts/images/charts0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/charts/images/charts1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/charts/images/charts2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/charts/images/charts3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/charts/images/charts4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/charts/images/charts5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/emotion/emotion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/emotion/emotion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/emotion/emotion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/emotion/images/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/emotion/images/bface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/emotion/images/cface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/emotion/images/fface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/emotion/images/jxface2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/emotion/images/neweditor-tab-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/emotion/images/tface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/emotion/images/wface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/emotion/images/yface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/gmap/gmap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/help/help.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/help/help.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/help/help.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/image/image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/image/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/image/image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/image/images/alignicon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/image/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/image/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/image/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/image/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/image/images/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/image/images/success.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/image/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/insertframe/insertframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/internal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/link/link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/map/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/map/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/music/music.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/music/music.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/music/music.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/preview/preview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/scrawl/images/addimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/scrawl/images/brush.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/scrawl/images/delimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/scrawl/images/delimgH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/scrawl/images/empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/scrawl/images/emptyH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/scrawl/images/eraser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/scrawl/images/redo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/scrawl/images/redoH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/scrawl/images/scale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/scrawl/images/scaleH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/scrawl/images/size.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/scrawl/images/undo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/scrawl/images/undoH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/scrawl/scrawl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/scrawl/scrawl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/scrawl/scrawl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/searchreplace/searchreplace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/searchreplace/searchreplace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/snapscreen/snapscreen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/spechars/spechars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/spechars/spechars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/table/dragicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/table/edittable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/table/edittable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/table/edittable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/table/edittd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/table/edittip.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/template/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/template/images/bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/template/images/pre0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/template/images/pre1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/template/images/pre2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/template/images/pre3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/template/images/pre4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/template/template.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/template/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/template/template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/video/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/video/images/center_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/video/images/file-icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/video/images/file-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/video/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/video/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/video/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/video/images/left_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/video/images/none_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/video/images/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/video/images/right_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/video/images/success.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/video/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/video/video.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/video/video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/video/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/webapp/webapp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/wordimage/fClipboard_ueditor.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/wordimage/imageUploader.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/wordimage/tangram.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/wordimage/wordimage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/dialogs/wordimage/wordimage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/images/pic01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/images/pic02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/images/pic03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/images/pic04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/images/pic05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/index.html.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/jquery/jquery-1.10.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/jquery/jquery-ui.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/js/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/js/jquery.dropotron.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/js/jquery.scrollgress.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/js/skel-layers.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/js/skel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lang/en/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lang/en/images/addimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lang/en/images/alldeletebtnhoverskin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lang/en/images/alldeletebtnupskin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lang/en/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lang/en/images/button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lang/en/images/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lang/en/images/deletedisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lang/en/images/deleteenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lang/en/images/listbackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lang/en/images/localimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lang/en/images/music.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lang/en/images/rotateleftdisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lang/en/images/rotateleftenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lang/en/images/rotaterightdisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lang/en/images/rotaterightenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lang/en/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lang/zh-cn/images/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lang/zh-cn/images/localimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lang/zh-cn/images/music.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lang/zh-cn/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lang/zh-cn/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lib/commons-codec-1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lib/commons-io-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lib/json.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lib/mysql-connector-java-5.1.42.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/lib/ueditor-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/login-register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/login-register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/sass/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/sass/_vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/sass/ie/v8.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/sass/style-mobile.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/sass/style-mobilep.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/sass/style-narrow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/sass/style-narrower.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/sass/style-normal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/sass/style-wide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/sql/wl2016.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/system/admin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/system/admin_add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/system/admin_edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/system/articleShow.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/system/articles.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/system/articles.jsp.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/system/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/system/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/system/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/team1/dao/BlogDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/team1/dao/CommentDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/team1/dao/StudentDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/team1/dao/UserDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/team1/model/Blog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/team1/model/Comment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/team1/model/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/team1/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/team1/util/CommonValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/team1/util/ListenerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/team1/web/AdminServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/team1/web/BlogServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/team1/web/UserServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/css/ueditor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/css/ueditor.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/dialogbase.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/anchor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/arrow_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/arrow_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/button-bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/cancelbutton.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/charts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/cursor_h.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/cursor_h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/cursor_v.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/cursor_v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/dialog-title-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/filescan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/highlighted.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/icons-all.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/loaderror.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/lock.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/neweditor-tab-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/pagebreak.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/scale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/sortable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/spacer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/sparator_v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/table-cell-align.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/tangram-colorpicker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/toolbar_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/unhighlighted.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/videologo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/word.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/default/images/wordpaste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/themes/iframe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/SyntaxHighlighter/shCore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/SyntaxHighlighter/shCoreDefault.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/codemirror/codemirror.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/codemirror/codemirror.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/adapters/mootools-adapter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/adapters/mootools-adapter.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/adapters/prototype-adapter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/adapters/prototype-adapter.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/adapters/standalone-framework.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/adapters/standalone-framework.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/highcharts-more.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/highcharts-more.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/highcharts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/highcharts.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/modules/annotations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/modules/annotations.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/modules/canvas-tools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/modules/canvas-tools.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/modules/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/modules/data.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/modules/drilldown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/modules/drilldown.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/modules/exporting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/modules/exporting.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/modules/funnel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/modules/funnel.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/modules/heatmap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/modules/heatmap.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/modules/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/modules/map.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/modules/no-data-to-display.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/modules/no-data-to-display.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/themes/dark-blue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/themes/dark-green.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/themes/gray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/themes/grid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/highcharts/themes/skies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/jquery-1.10.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/jquery-1.10.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/jquery-1.10.2.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/snapscreen/UEditorSnapscreen.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/video-js/font/vjs.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/video-js/font/vjs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/video-js/font/vjs.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/video-js/font/vjs.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/video-js/video-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/video-js/video-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/video-js/video-js.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/video-js/video.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/video-js/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/webuploader/Uploader.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/webuploader/webuploader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/webuploader/webuploader.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/webuploader/webuploader.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/webuploader/webuploader.flashonly.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/webuploader/webuploader.flashonly.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/webuploader/webuploader.html5only.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/webuploader/webuploader.html5only.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/webuploader/webuploader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/webuploader/webuploader.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/webuploader/webuploader.withoutimage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/webuploader/webuploader.withoutimage.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/xss.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/zeroclipboard/ZeroClipboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/zeroclipboard/ZeroClipboard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/third-party/zeroclipboard/ZeroClipboard.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/ueditor.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/ueditor.all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/ueditor.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/ueditor.parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/ueditor.parse.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/classes/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/lib/commons-codec-1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/lib/json.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.42.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/lib/ueditor-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/sql/wl2016.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/asset/images/li.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/asset/images/wang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/asset/images/zhang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/plugins/iCheck/css/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/plugins/iCheck/css/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/plugins/iCheck/css/blue@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/plugins/iCheck/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/plugins/iCheck/js/custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/plugins/iCheck/js/icheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/bootstrap3/plugins/iCheck/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/css/ie/PIE.htc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/css/ie/backgroundsize.min.htc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/css/ie/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/css/ie/v8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/css/images/overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/css/skel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/css/style-mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/css/style-mobilep.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/css/style-narrow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/css/style-narrower.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/css/style-normal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/css/style-wide.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/anchor/anchor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/attachment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/attachment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/fileTypeImages/icon_chm.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/fileTypeImages/icon_default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/fileTypeImages/icon_doc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/fileTypeImages/icon_exe.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/fileTypeImages/icon_jpg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/fileTypeImages/icon_mp3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/fileTypeImages/icon_mv.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/fileTypeImages/icon_pdf.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/fileTypeImages/icon_ppt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/fileTypeImages/icon_psd.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/fileTypeImages/icon_rar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/fileTypeImages/icon_txt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/fileTypeImages/icon_xls.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/images/alignicon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/images/alignicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/images/file-icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/images/file-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/images/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/images/success.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/attachment/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/background/background.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/background/background.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/background/background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/background/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/background/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/charts/chart.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/charts/charts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/charts/charts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/charts/charts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/charts/images/charts0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/charts/images/charts1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/charts/images/charts2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/charts/images/charts3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/charts/images/charts4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/charts/images/charts5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/emotion/emotion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/emotion/emotion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/emotion/emotion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/emotion/images/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/emotion/images/bface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/emotion/images/cface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/emotion/images/fface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/emotion/images/jxface2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/emotion/images/neweditor-tab-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/emotion/images/tface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/emotion/images/wface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/emotion/images/yface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/gmap/gmap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/help/help.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/help/help.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/help/help.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/image/image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/image/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/image/image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/image/images/alignicon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/image/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/image/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/image/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/image/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/image/images/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/image/images/success.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/image/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/insertframe/insertframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/internal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/link/link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/map/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/map/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/music/music.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/music/music.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/music/music.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/preview/preview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/scrawl/images/addimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/scrawl/images/brush.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/scrawl/images/delimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/scrawl/images/delimgH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/scrawl/images/empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/scrawl/images/emptyH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/scrawl/images/eraser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/scrawl/images/redo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/scrawl/images/redoH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/scrawl/images/scale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/scrawl/images/scaleH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/scrawl/images/size.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/scrawl/images/undo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/scrawl/images/undoH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/scrawl/scrawl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/scrawl/scrawl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/scrawl/scrawl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/searchreplace/searchreplace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/searchreplace/searchreplace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/snapscreen/snapscreen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/spechars/spechars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/spechars/spechars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/table/dragicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/table/edittable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/table/edittable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/table/edittable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/table/edittd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/table/edittip.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/template/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/template/images/bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/template/images/pre0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/template/images/pre1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/template/images/pre2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/template/images/pre3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/template/images/pre4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/template/template.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/template/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/template/template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/video/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/video/images/center_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/video/images/file-icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/video/images/file-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/video/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/video/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/video/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/video/images/left_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/video/images/none_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/video/images/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/video/images/right_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/video/images/success.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/video/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/video/video.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/video/video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/video/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/webapp/webapp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/wordimage/fClipboard_ueditor.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/wordimage/imageUploader.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/wordimage/tangram.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/wordimage/wordimage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/dialogs/wordimage/wordimage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/images/pic01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/images/pic02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/images/pic03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/images/pic04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/images/pic05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/index.html.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/jquery/jquery-1.10.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/jquery/jquery-ui.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/js/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/js/jquery.dropotron.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/js/jquery.scrollgress.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/js/skel-layers.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/js/skel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/lang/en/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/lang/en/images/addimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/lang/en/images/alldeletebtnhoverskin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/lang/en/images/alldeletebtnupskin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/lang/en/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/lang/en/images/button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/lang/en/images/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/lang/en/images/deletedisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/lang/en/images/deleteenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/lang/en/images/listbackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/lang/en/images/localimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/lang/en/images/music.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/lang/en/images/rotateleftdisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/lang/en/images/rotateleftenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/lang/en/images/rotaterightdisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/lang/en/images/rotaterightenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/lang/en/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/lang/zh-cn/images/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/lang/zh-cn/images/localimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/lang/zh-cn/images/music.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/lang/zh-cn/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/lang/zh-cn/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/login-register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/login-register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/sass/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/sass/_vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/sass/ie/v8.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/sass/style-mobile.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/sass/style-mobilep.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/sass/style-narrow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/sass/style-narrower.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/sass/style-normal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/sass/style-wide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/system/admin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/system/admin_add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/system/admin_edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/system/articleShow.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/system/articles.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/system/articles.jsp.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/system/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/system/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/system/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/css/ueditor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/css/ueditor.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/dialogbase.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/anchor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/arrow_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/arrow_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/button-bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/cancelbutton.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/charts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/cursor_h.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/cursor_h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/cursor_v.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/cursor_v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/dialog-title-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/filescan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/highlighted.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/icons-all.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/loaderror.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/lock.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/neweditor-tab-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/pagebreak.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/scale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/sortable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/spacer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/sparator_v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/table-cell-align.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/tangram-colorpicker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/toolbar_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/unhighlighted.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/videologo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/word.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/default/images/wordpaste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/themes/iframe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/SyntaxHighlighter/shCore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/SyntaxHighlighter/shCoreDefault.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/codemirror/codemirror.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/codemirror/codemirror.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/adapters/mootools-adapter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/adapters/mootools-adapter.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/adapters/prototype-adapter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/adapters/prototype-adapter.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/adapters/standalone-framework.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/adapters/standalone-framework.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/highcharts-more.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/highcharts-more.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/highcharts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/highcharts.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/modules/annotations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/modules/annotations.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/modules/canvas-tools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/modules/canvas-tools.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/modules/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/modules/data.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/modules/drilldown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/modules/drilldown.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/modules/exporting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/modules/exporting.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/modules/funnel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/modules/funnel.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/modules/heatmap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/modules/heatmap.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/modules/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/modules/map.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/modules/no-data-to-display.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/modules/no-data-to-display.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/themes/dark-blue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/themes/dark-green.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/themes/gray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/themes/grid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/highcharts/themes/skies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/jquery-1.10.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/jquery-1.10.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/jquery-1.10.2.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/snapscreen/UEditorSnapscreen.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/video-js/font/vjs.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/video-js/font/vjs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/video-js/font/vjs.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/video-js/font/vjs.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/video-js/video-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/video-js/video-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/video-js/video-js.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/video-js/video.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/video-js/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/webuploader/Uploader.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/webuploader/webuploader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/webuploader/webuploader.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/webuploader/webuploader.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/webuploader/webuploader.flashonly.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/webuploader/webuploader.flashonly.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/webuploader/webuploader.html5only.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/webuploader/webuploader.html5only.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/webuploader/webuploader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/webuploader/webuploader.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/webuploader/webuploader.withoutimage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/webuploader/webuploader.withoutimage.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/xss.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/zeroclipboard/ZeroClipboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/zeroclipboard/ZeroClipboard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/third-party/zeroclipboard/ZeroClipboard.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/ueditor.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/ueditor.all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/ueditor.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/ueditor.parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/2016123456_war_exploded/ueditor.parse.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team1/dao/BlogDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team1/dao/CommentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team1/dao/StudentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team1/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team1/model/Blog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team1/model/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team1/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team1/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team1/util/CommonValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team1/util/ListenerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team1/web/AdminServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team1/web/BlogServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team1/web/UserServlet.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/build/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/WebContent/system/articles.jsp" />
+    </disable_hints>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlogDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/team1/dao/BlogDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1365">
+              <caret line="100" column="33" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/team1/web/AdminServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="76" column="89" selection-start-line="76" selection-start-column="89" selection-end-line="76" selection-end-column="89" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="articles.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/system/articles.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/system/admin.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="58" column="45" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin_edit.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/system/admin_edit.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="13" selection-start-line="17" selection-start-column="4" selection-end-line="25" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="articleShow.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebContent/system/articleShow.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+              <folding>
+                <element signature="e#3717#3723#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin_add.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/system/admin_add.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/team1/web/UserServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="41" column="21" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlogServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/team1/web/BlogServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="25" column="41" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>StudentServlet</find>
+      <find>artileid</find>
+      <find>getString</find>
+      <find>stud</find>
+      <find>id</find>
+      <find>articleRs</find>
+      <find>executeUpdate</find>
+      <find>system/admin</find>
+      <find>findAll</find>
+      <find>PreparedStatement stmtA = null;</find>
+      <find>request.</find>
+      <find>userDAO</find>
+      <find>UserDAO</find>
+      <find>addArticle</find>
+      <find>form</find>
+      <find>check</find>
+      <find>edit</find>
+      <find>UE</find>
+      <find>openLoginModal();</find>
+      <find>This is a subheadin</find>
+      <find>entry</find>
+      <find>list</find>
+      <find>layo</find>
+      <find>layout</find>
+      <find>home</find>
+      <find>model</find>
+      <find>blogDAO</find>
+      <find>while</find>
+      <find>rs</find>
+      <find>response.</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WebContent/system/articles.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebContent/system/articles.jsp.bak" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/team1/web/StudentServlet.java" />
+        <option value="$PROJECT_DIR$/src/team1/model/User.java" />
+        <option value="$PROJECT_DIR$/src/team1/model/Comment.java" />
+        <option value="$PROJECT_DIR$/src/team1/dao/CommentDAO.java" />
+        <option value="$PROJECT_DIR$/src/team1/util/CommonValue.java" />
+        <option value="$PROJECT_DIR$/WebContent/admin_edit.jsp" />
+        <option value="$PROJECT_DIR$/src/team1/model/Blog.java" />
+        <option value="$PROJECT_DIR$/src/team1/web/UserServlet.java" />
+        <option value="$PROJECT_DIR$/src/team1/dao/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/team1/dao/BlogDAO.java" />
+        <option value="$PROJECT_DIR$/src/team1/web/BlogServlet.java" />
+        <option value="$PROJECT_DIR$/WebContent/system/admin_edit.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/system/register.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/system/login.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/generic.html" />
+        <option value="$PROJECT_DIR$/WebContent/index.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/system/articles.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/system/admin_add.jsp" />
+        <option value="$PROJECT_DIR$/src/team1/web/AdminServlet.java" />
+        <option value="$PROJECT_DIR$/WebContent/system/admin.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/system/articleShow.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2016123456" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2016123456" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2016123456" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2016123456" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2016123456" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2016123456" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="team1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2016123456" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2016123456" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="team1" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2016123456" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2016123456" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="team1" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2016123456" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2016123456" type="462c0819:PsiDirectoryNode" />
+              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2016123456" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2016123456" type="462c0819:PsiDirectoryNode" />
+              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2016123456" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.16897233" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WebContent/system" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/WebContent" />
+      <recent name="$PROJECT_DIR$/WebContent/WEB-INF/lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WebContent/system" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="工程实践" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.91" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.7">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="2016123456:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_2016123456" />
+        <option name="HTTP_PORT" value="8102" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60431" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="2016123456:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_2016123456" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60431" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02acb7ec-2e41-42ed-91ef-0db632bdfe59" name="Default" comment="" />
+      <created>1540197032697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540197032697</updated>
+      <workItem from="1540197040851" duration="5826000" />
+      <workItem from="1540694054815" duration="34932000" />
+      <workItem from="1540877342324" duration="14316000" />
+      <workItem from="1541409319862" duration="768000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="55842000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="1" />
+      <window_info anchor="bottom" id="Java Enterprise" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="0" weight="0.32900944" />
+      <window_info anchor="right" id="Maven Projects" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.44103774" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.27110156" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.41333333" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32900944" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32900944" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="博客-Servlet作业" />
+    <option name="LAST_COMMIT_MESSAGE" value="博客-Servlet作业" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="93" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>userDAO</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rs.next()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Integer.parseInt(rs.getString(&quot;count(*)&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>39/10</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>34/10</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/team1/dao/BlogDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3075">
+          <caret line="214" lean-forward="true" selection-start-line="214" selection-end-line="214" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team1/dao/CommentDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="51" column="67" selection-start-line="51" selection-start-column="67" selection-end-line="51" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team1/web/AdminServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="70" column="24" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/system/admin_edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/system/admin_add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/system/articleShow.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="81" column="25" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
+          <folding>
+            <element signature="e#3717#3723#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team1/web/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team1/web/BlogServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="70" column="60" selection-start-line="70" selection-start-column="49" selection-end-line="70" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/system/articles.jsp.bak">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2490">
+          <caret line="166" column="22" lean-forward="true" selection-start-line="166" selection-start-column="22" selection-end-line="166" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team1/model/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team1/util/CommonValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team1/dao/StudentDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/sql/wl2016.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team1/util/ListenerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team1/model/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home/src.zip!/java/sql/PreparedStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="167" column="9" selection-start-line="167" selection-start-column="9" selection-end-line="167" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home/src.zip!/java/sql/ResultSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="522" column="11" selection-start-line="522" selection-start-column="11" selection-end-line="522" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team1/model/Comment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team1/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team1/util/CommonValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="97" selection-start-line="3" selection-start-column="97" selection-end-line="3" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/ueditor.all.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/lang/en/en.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/dialogs/map/map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team1/model/Blog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team1/dao/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team1/dao/StudentDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-206">
+          <caret line="76" column="38" lean-forward="true" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team1/dao/CommentDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="51" column="67" selection-start-line="51" selection-start-column="67" selection-end-line="51" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/login-register.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/bootstrap3/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/jquery/jquery-1.10.2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/system/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="110" column="47" selection-start-line="110" selection-start-column="43" selection-end-line="110" selection-end-column="47" />
+          <folding>
+            <element signature="e#1607#1614#1#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/system/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#1899#1906#1#HTML" expanded="true" />
+            <element signature="e#4019#4040#0#HTML" expanded="true" />
+            <element signature="e#5359#5379#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/index.html.bak">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="168" selection-start-line="22" selection-end-line="168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/system/articles.jsp.bak">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="80" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/contact.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/system/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/system/admin_edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="13" selection-start-line="17" selection-start-column="4" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/system/admin_add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/system/admin.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="45" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team1/web/BlogServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/system/articles.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team1/web/AdminServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="76" column="89" selection-start-line="76" selection-start-column="89" selection-end-line="76" selection-end-column="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team1/dao/BlogDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="100" column="33" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team1/web/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/system/articleShow.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+          <folding>
+            <element signature="e#3717#3723#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>2016123456:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.16897233" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (2016123456)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.16897233" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>2016123456</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.16897233" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Java EE 6-Java EE 6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.16897233" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

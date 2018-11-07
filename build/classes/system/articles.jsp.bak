@@ -1,0 +1,73 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<%
+    String path = request.getContextPath();
+    String basePath = request.getScheme() + "://" + request.getServerName() + ":" + request.getServerPort()
+            + path;
+%>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>首页</title>
+
+</head>
+<body>
+<header>
+    <div class="blog-header">
+        <div class="container">
+            <h1 class="blog-title">我的博客</h1>
+            <p class="lead blog-description">这是一个Servlet写的博客</p>
+        </div>
+    </div>
+</header>
+
+<main role="main" class="container">
+
+    <div class="row">
+
+        <div class="col-sm-8 blog-main">
+            <c:forEach var="blog" items="${BLOG_LIST}">
+            <div class="blog-post">
+                <a href="<%=basePath%>/blog?method=findOne&id=${blog.articleId}"><h2 class="blog-post-title">${blog.title}</h2></a>
+                <p class="blog-post-meta">${blog.time} by
+                    <a href="#">${blog.author}</a>
+                </p>
+
+            </div>
+            </c:forEach>
+            <!-- /.blog-post -->
+
+
+
+
+
+        </div>
+        <!-- /.blog-main -->
+
+
+
+    </div>
+    <!-- /.row -->
+
+</main>
+<!-- /.container -->
+
+<form method="get" action="">
+    <input type="hidden" name="method" value="findAll">
+    跳转到第<input type="text" name="page">页<input type="submit">
+</form>
+
+<footer class="blog-footer">
+    <p>Blog template built for
+        <a href="https://getbootstrap.com/">Bootstrap</a> by
+        <a href="https://twitter.com/mdo">@mdo</a>.</p>
+    <p>
+        <a href="#">Back to top</a>
+    </p>
+</footer>
+
+
+
+</body>
+</html>
